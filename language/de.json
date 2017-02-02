@@ -163,9 +163,9 @@
         },
         {
           "englishLabel": "Apply penalties",
-          "label": "Apply penalties",
+          "label": "Strafpunkte vergeben",
           "englishDescription": "Apply penalties for elements dropped in the wrong drop zones.",
-          "description": "Apply penalties for elements dropped in the wrong drop zones."
+          "description": "Für falsch zugeordnete Elemente Punkte abziehen."
         }
       ]
     }
